@@ -1,1 +1,3 @@
 # sdwildcards
+
+Various costume wildcards for female Marvel comics superheros and villains. It includes some Easter Eggs. Costumes may not generate accurately according to the comics depending on SD version and Checkpoint. Some costume prompts have issues overriding a TI or face LORA. This was noted on Captain Marvel, both versions of The Wasp, and Black Widow spedcifically. Some characters such as Moon Girl would generate as underage and requried removing the superhero name from the prompt to prevent underage generations, even if the prompt included negative prompts and other protections. NSFW generations can happen even if steps are taken to prevent it in the prompt.
